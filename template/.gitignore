@@ -1,3 +1,15 @@
+node_modules/
 .env
-node_modules
+.env.local
+.env.*.local
+*.log
+npm-debug.log*
+.DS_Store
+.idea/
+.vscode/
+dist/
+build/
+coverage/
+.npm/
+.eslintcache
 package-lock.json

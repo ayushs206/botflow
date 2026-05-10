@@ -1,0 +1,13 @@
+.git
+.gitignore
+.github
+.vscode
+.idea
+*.log
+npm-debug.log*
+.DS_Store
+.env
+.env.local
+template/node_modules
+template/.env
+template/.gitkeep
