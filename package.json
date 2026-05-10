@@ -3,9 +3,7 @@
   "version": "1.0.1",
   "description": "Create a new Discord bot project with a professional, scalable file structure",
   "main": "index.js",
-  "bin": {
-    "create-botflow": "./bin/create-botflow.js"
-  },
+  "bin": "./bin/create-botflow.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
